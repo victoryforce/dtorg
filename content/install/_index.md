@@ -19,6 +19,7 @@ menu: ["main", "footer"]
 <div style="text-align: center;">
   <h2>AppImage</h2>
   <p><a href='https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-x86_64.AppImage' title='GNU/Linux AppImage'>Darktable-5.6.1-x86_64.AppImage</a></p>
+  <p><a href='https://github.com/darktable-org/darktable/releases/download/release-5.6.1/Darktable-5.6.1-aarch64.AppImage' title='GNU/Linux AppImage on ARM'>Darktable-5.6.1-aarch64.AppImage</a></p>
 </div>
 <div style="text-align: center;">
   <h2>Windows</h2>
